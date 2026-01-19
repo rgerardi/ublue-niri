@@ -33,6 +33,7 @@ dnf5 -y install SDL2_image \
 		breeze-gtk-gtk3 \
 		breeze-gtk-gtk4 \
 		breeze-icon-theme \
+		brightnessctl \
 		cascadia-fonts-all \
 		chafa \
 		curl \
