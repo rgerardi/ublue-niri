@@ -64,6 +64,7 @@ dnf5 -y install SDL2_image \
 		podman-machine \
 		podman-tui \
 		powertop \
+		qt6ct \
 		rclone \
 		socat \
 		slurp \
