@@ -53,6 +53,7 @@ dnf5 -y install SDL2_image \
 		grim \
 		guestfs-tools \
 		gum \
+		htop \
 		imv \
 		iwd \
 		jetbrains-mono-fonts-all \
